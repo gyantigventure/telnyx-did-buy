@@ -14,7 +14,7 @@ This repository contains comprehensive documentation for building, deploying, an
 - Environment configuration
 - Quick start guide and API examples
 
-### 🗄️ **[01_DATABASE_DESIGN.md](./01_DATABASE_DESIGN.md)**
+### 🗄️ **[DATABASE_DESIGN.md](./DATABASE_DESIGN.md)**
 **Comprehensive database architecture and design**
 - Entity relationship diagrams
 - Complete MySQL schema with all tables
@@ -22,7 +22,7 @@ This repository contains comprehensive documentation for building, deploying, an
 - Migration and backup strategies
 - Future schema evolution roadmap
 
-### 🔌 **[02_API_SPECIFICATION.md](./02_API_SPECIFICATION.md)**
+### 🔌 **[API_SPECIFICATION.md](./0API_SPECIFICATION.md)**
 **REST API documentation and standards**
 - Complete endpoint specifications
 - Authentication and authorization
@@ -30,7 +30,7 @@ This repository contains comprehensive documentation for building, deploying, an
 - API versioning strategy
 - SDK development roadmap
 
-### 🔒 **[03_SECURITY_ARCHITECTURE.md](./03_SECURITY_ARCHITECTURE.md)**
+### 🔒 **[SECURITY_ARCHITECTURE.md](./SECURITY_ARCHITECTURE.md)**
 **Security framework and compliance**
 - Multi-layer security architecture
 - Authentication and authorization systems
@@ -38,7 +38,7 @@ This repository contains comprehensive documentation for building, deploying, an
 - Compliance validation (TCPA, GDPR)
 - Incident response procedures
 
-### 🚀 **[04_DEPLOYMENT_OPERATIONS.md](./04_DEPLOYMENT_OPERATIONS.md)**
+### 🚀 **[DEPLOYMENT_OPERATIONS.md](./DEPLOYMENT_OPERATIONS.md)**
 **Infrastructure and operations guide**
 - Kubernetes deployment strategies
 - CI/CD pipeline configuration
@@ -46,13 +46,53 @@ This repository contains comprehensive documentation for building, deploying, an
 - Disaster recovery procedures
 - Performance optimization
 
-### 🧪 **[05_TESTING_STRATEGY.md](./05_TESTING_STRATEGY.md)**
+### 🧪 **[TESTING_STRATEGY.md](./TESTING_STRATEGY.md)**
 **Comprehensive testing methodology**
 - Test pyramid strategy (Unit, Integration, E2E)
 - Performance and security testing
 - Compliance validation testing
 - Test automation frameworks
 - Quality gates and coverage requirements
+
+### 📊 **[MONITORING_OBSERVABILITY.md](./MONITORING_OBSERVABILITY.md)**
+**Comprehensive monitoring and observability framework**
+- Real-time metrics collection and alerting
+- Performance monitoring and APM integration
+- Business intelligence and KPI tracking
+- Log aggregation and analysis
+- Incident management and response
+
+### 🔗 **[TELNYX_INTEGRATION.md](./TELNYX_INTEGRATION.md)**
+**Complete Telnyx API integration guide**
+- Account setup and configuration
+- Brand and campaign registration
+- Message operations and webhook handling
+- Phone number management
+- Error handling and troubleshooting
+
+### ⚖️ **[COMPLIANCE_REGULATORY.md](./COMPLIANCE_REGULATORY.md)**
+**10DLC compliance and regulatory requirements**
+- TCPA and CAN-SPAM compliance
+- SHAFT content guidelines
+- Data privacy (GDPR/CCPA) requirements
+- Automated compliance monitoring
+- Audit trails and documentation
+
+### 👥 **[USER_GUIDE.md](./USER_GUIDE.md)**
+**Complete user and administrator guide**
+- Getting started and account setup
+- Brand and campaign management
+- Message operations and analytics
+- Compliance management
+- Mobile app usage and best practices
+
+### 🔧 **[TROUBLESHOOTING_FAQ.md](./TROUBLESHOOTING_FAQ.md)**
+**Comprehensive troubleshooting and FAQ guide**
+- Quick troubleshooting steps
+- Common issues and solutions
+- API integration problems
+- Performance optimization
+- When to contact support
 
 ## System Capabilities
 
@@ -312,6 +352,11 @@ This system is designed to comply with U.S. telecommunications regulations inclu
 | [Security Architecture](./03_SECURITY_ARCHITECTURE.md) | Security framework and compliance | Security Engineers, Auditors |
 | [Deployment Operations](./04_DEPLOYMENT_OPERATIONS.md) | Infrastructure and operations | DevOps, Site Reliability Engineers |
 | [Testing Strategy](./05_TESTING_STRATEGY.md) | Testing methodology and automation | QA Engineers, Developers |
+| [Monitoring & Observability](./06_MONITORING_OBSERVABILITY.md) | Monitoring and observability framework | DevOps, Operations Teams |
+| [Telnyx Integration](./07_TELNYX_INTEGRATION.md) | Complete Telnyx API integration | Developers, Integration Teams |
+| [Compliance & Regulatory](./08_COMPLIANCE_REGULATORY.md) | Regulatory compliance requirements | Compliance Officers, Legal Teams |
+| [User Guide](./09_USER_GUIDE.md) | End-user and admin documentation | Business Users, Administrators |
+| [Troubleshooting & FAQ](./10_TROUBLESHOOTING_FAQ.md) | Troubleshooting and support guide | Support Teams, All Users |
 
 Each document is designed to be comprehensive and standalone, while this index provides the overall context and navigation between documents.
 
